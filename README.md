@@ -1,3 +1,7 @@
+> # Archived Repository 🚨
+> **This project is no longer maintained and has been archived. No further issues, PRs, or updates will be made.**
+---
+
 #sp_SqlForeachDB
 
 Executes a script against each database in an instance. The goal of this procedure is to improve upon the undocumented system proc sp_MSforeachdb, by providing: documentation, options, messaging, and error handling.
